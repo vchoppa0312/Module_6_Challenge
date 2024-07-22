@@ -1,4 +1,4 @@
-# Module_6_Challenge
+# Data_Visualization_Challenge
 
 ## PyViz Challenge
 
